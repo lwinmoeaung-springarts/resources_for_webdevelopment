@@ -72,6 +72,7 @@
 | Name                                                         | Description                                                                                                                        |
 | ------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------- |
 | [Flaticon](https://www.flaticon.com)                         | Free icons available in PNG, SVG, EPS, PSD and BASE 64 formats.                                                                    |
+| [Boxicons](https://boxicons.com)                         | Free icons available in PNG, SVG, EPS, PSD and BASE 64 formats.                                                                    |
 | [Iconfinder](https://www.iconfinder.com)                     | Free icons available in PNG, SVG, EPS, PSD and BASE 64 formats.                                                                    |
 | [Bootstrap Icon](https://icons.getbootstrap.com)             | Free, high quality, open source icon library with nearly 1,200 icons. Include them anyway you like—SVGs, SVG sprite, or web fonts. |
 | [Fontawesome](https://fontawesome.com)                       | Most popular site                                                                                                                  |
@@ -92,6 +93,8 @@
 | ---------------------------------- | ------------------------- |
 | [Unsplash](https://unsplash.com)   | Free high quality images. |
 | [Freepik](https://www.freepik.com) | Free high quality images. |
+| [Undraw](https://undraw.co/illustrations) | Free high quality images. |
+
 
 ## Other
 
