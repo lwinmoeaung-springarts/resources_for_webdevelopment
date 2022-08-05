@@ -102,3 +102,5 @@
 | --------------------------------- | ------------------------- |
 | [Regex101](https://regex101.com/) | Regular Expression Online |
 | [HTML DOM](https://htmldom.dev)   | HTML and DOM most useful project |
+| [Faker libraryM](https://github.com/fzaninotto/Faker)   |fake data to use |
+
