@@ -59,6 +59,7 @@
 | Name                                                                         | Description                                                                |
 | ---------------------------------------------------------------------------- | -------------------------------------------------------------------------- |
 | [Pro Sidebar Template](https://github.com/azouaoui-med/pro-sidebar-template) | Responsive sidebar template with dropdown menu based on bootstrap framwork |
+| [bootstrap Sidebar Template](https://freefrontend.com/bootstrap-sidebars/) | Responsive sidebar template with dropdown menu based on bootstrap framwork |
 | [Html5up](https://html5up.net)                                               | Beautiful HTML5 template                                                   |
 
 ## Themes
