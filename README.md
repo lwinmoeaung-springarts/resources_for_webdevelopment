@@ -97,6 +97,16 @@
 | [Undraw](https://undraw.co/illustrations) | Free high quality images. |
 
 
+## Laravel Resources
+
+| Name                               | Description               |
+| ---------------------------------- | ------------------------- |
+| [Laravel Excel](https://docs.laravel-excel.com/3.1/exports/collection.html)   | Laravel Export Excel. |
+| [Laravel Excel](https://reffect.co.jp/laravel/how_to_create_pdf_in_laravel)   | Laravel Export Excel with Japanese Font. |
+| [Seeding million fake data](https://laravelproject.com/how-to-seed-records-in-laravel-quickly/) | Laravel Seeding. |
+| [Faker DATA](https://github.com/fzaninotto/Faker) | Fake Data. |
+
+
 ## Other
 
 | Name                              | Description               |
