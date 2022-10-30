@@ -64,6 +64,13 @@
 | [Html5up](https://html5up.net)                                               | Beautiful HTML5 template                                                   |
 | [CSS](https://csslayout.io/)                                               | Useful Css component                                             |
 
+## Css & JS components
+
+| Name                                | Description                               |
+| ----------------------------------- | ----------------------------------------- |
+| [drag&draw textarea](https://codingartistweb.com/2022/10/drag-drop-file-upload-vanilla-javascript/) | Drag&draw multiple textarea |
+| [telephone nu with internation code and flag](https://codepen.io/jackocnr/pen/EyPXed) | Internation tele code |
+
 ## Themes
 
 | Name                                | Description                               |
